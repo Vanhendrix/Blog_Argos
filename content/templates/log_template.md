@@ -1,6 +1,5 @@
 ---
 title: 
-aliases: 
 tags:
   - log
 date:
