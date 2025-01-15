@@ -5,9 +5,9 @@ tags:
 ---
 
 >[!abstract] Le but de ce blog est de servir de carnet de bord pour la production d'***Argos***, un court métrage écris par Julien Paillet.
-
+- les #log pour suivre l'avancement du projet.
 - La **[[Liste des plans]]**.
-- Tous les plans ont leur page dédié avec le texte du scénario et les images (si la scène est en storyboard). ex: [[ARG_0110]]
+- Tous les #Shots ont leur page dédié avec le texte du scénario et les images (si la scène est en storyboard). ex: [[ARG_0110]]
 
 Le court-métrage sera entièrement tourné en **vue subjective** et en images de synthèses.
 
