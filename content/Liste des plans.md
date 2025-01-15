@@ -1,0 +1,25 @@
+| Nom du plan      | Code du plan | Status | Frame Range | Timeline | Character                 | Props                                    | Set                                                   | Time |
+| ---------------- | ------------ | ------ | ----------- | -------- | ------------------------- | ---------------------------------------- | ----------------------------------------------------- | ---- |
+| Intro            | [[ARG_0010]] | N/A    |             |          | Anna                      | Téléphone Portable                       | Chambre                                               | Jour |
+| Miroir 1         | [[ARG_0020]] | N/A    |             |          | Anna                      | Téléphone Portable                       | Salle de Bain                                         | Jour |
+| Mail             | [[ARG_0030]] | N/A    |             |          | Anna                      | Ordinateur Portable                      | Chambre                                               | Jour |
+| Lucas            | [[ARG_0040]] | Board  |             |          | Anna, Lucas               | Sac à Dos, Téléphone Portable, Écouteurs | Salon                                                 | Jour |
+| Appel            | [[ARG_0050]] | N/A    |             |          | Anna, Lucas               |                                          | Chambre                                               | Nuit |
+| RDV              | [[ARG_0060]] | N/A    |             |          | Anna, Lucas               | Téléphone Portable                       | Chambre                                               | Nuit |
+| Réveil           | [[ARG_0070]] | N/A    |             |          | Anna                      | Pantalon, T-Shirt                        | Chambre                                               | Jour |
+| Psy 1-1          | [[ARG_0080]] | Board  |             |          | Anna, Julien              | Tasse de Café                            | Cuisine                                               | Jour |
+| Psy 1-2          | [[ARG_0090]] | Board  |             |          | Anna, Julien              |                                          | Salon                                                 | Jour |
+| Psy 1-3          | [[ARG_0100]] | Board  |             |          | Anna, Argos, Julien       |                                          | Salon                                                 | Jour |
+| Espoir           | [[ARG_0110]] | Board  |             |          | Anna, Lucas               | Assiettes, Couverts, Morceau de viande   | Cuisine                                               | Nuit |
+| Séquence Montage | [[ARG_0120]] | N/A    |             |          | Anna, Julien, Lucas       | Téléphone Portable                       |                                                       |      |
+| Argos            | [[ARG_0130]] | N/A    |             |          | Anna, Argos, Lucas        | Sacs Poubelles                           | Chambre, Cuisine, Extérieur                           | Nuit |
+| Recherche        | [[ARG_0140]] | N/A    |             |          | Anna, Lucas               | Téléphone Portable                       | Chambre                                               | Nuit |
+| Psy 2-1          | [[ARG_0150]] | N/A    |             |          | Anna, Julien              | Téléphone Portable                       | Salon                                                 | Jour |
+| Psy 2-2 (VR)     | [[ARG_0160]] | N/A    |             |          | Anna, Argos, Julien, PNJs | Casque VR                                | Boulangerie (VR), Salon, Supermarché (VR), Ville (VR) | Jour |
+| Anna sombre      | [[ARG_0170]] | N/A    |             |          | Anna                      | Téléphone Portable                       | Chambre                                               |      |
+| Miroir 2         | [[ARG_0180]] | N/A    |             |          | Anna                      |                                          | Salle de Bain                                         | Jour |
+| Rupture          | [[ARG_0190]] | N/A    |             |          | Anna, Lucas               | Téléphone Portable, Écouteurs            | Chambre                                               | Nuit |
+| Climax 1         | [[ARG_0200]] | N/A    |             |          | Anna, Argos               | Téléphone Portable                       | Salon                                                 | Nuit |
+| Climax 2         | [[ARG_0210]] | N/A    |             |          | Anna, Argos               | Téléphone Portable                       | Chambre                                               | Nuit |
+| Climax 3         | [[ARG_0220]] | N/A    |             |          | Anna, Argos               | Téléphone Portable                       | Extérieur                                             | Nuit |
+| Climax 4 (Fin)   | [[ARG_0230]] | N/A    |             |          | Anna, Argos, Homme        | Voiture                                  | Chambre, Extérieur                                    | Jour |
