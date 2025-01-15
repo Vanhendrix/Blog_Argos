@@ -29,28 +29,29 @@ const config: QuartzConfig = {
         code: "Fira Code",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+          lightMode: {
+            light: "#faf8f8",
+            lightgray: "#e5e5e5",
+            gray: "#b8b8b8",
+            darkgray: "#4e4e4e",
+            dark: "#2b2b2b",
+            secondary: "#284b63",
+            tertiary: "#84a59d",
+            highlight: "rgba(143, 159, 169, 0.15)",
+            textHighlight: "#fff23688",
+          },
+          darkMode: {
+            light: "#2b2d3c", // Une teinte légèrement plus claire que #24273a pour les éléments de fond secondaire
+            lightgray: "#393d52", // Une teinte intermédiaire pour les fonds secondaires
+            gray: "#50546d", // Pour des éléments comme des bordures ou des textes secondaires
+            darkgray: "#8a8fad", // Pour des textes plus visibles mais pas principaux
+            dark: "#24273a", // Couleur dominante pour les fonds
+            secondary: "#3a4b6d", // Accent secondaire en contraste avec le fond principal
+            tertiary: "#57627e", // Accent tertiaire doux et apaisant
+            highlight: "rgba(80, 84, 109, 0.25)", // Pour des éléments en surbrillance
+            textHighlight: "#aab4ff88", // Une teinte douce pour les textes surlignés
+          },
+        }
       },
     },
   },
